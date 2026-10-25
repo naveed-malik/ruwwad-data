@@ -1,0 +1,13 @@
+{
+ "algorithm": "Ed25519",
+ "files": [
+  {
+   "bytes": 61442,
+   "path": "trends.json",
+   "sha256": "909a954897ec7c0d48d89541d6b6cff7c77653fba73c58c2d0c61dabecc5119d"
+  }
+ ],
+ "generated": "2026-10-20",
+ "keyId": "5d3ec237e88fa3f2",
+ "schema": 1
+}
